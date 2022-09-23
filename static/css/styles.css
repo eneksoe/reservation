@@ -1,0 +1,17 @@
+.my-footer {
+    height: 5em;
+    background-color: #163d65;
+    margin-top: 1.5em;
+    padding: 1em;
+    color: white;
+    font-size: 80%;
+}
+
+.row
+{
+    --bs-gutter-x: 0rem;
+}
+
+.datepicker {
+    z-index: 100000;
+}
